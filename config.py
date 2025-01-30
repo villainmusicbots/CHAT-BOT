@@ -6,7 +6,7 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", "21803165"))
 API_HASH = getenv("API_HASH", "05e5e695feb30e25bef47484cc006da7")
-BOT_TOKEN = getenv("BOT_TOKEN", "8171600424:")
+BOT_TOKEN = getenv("BOT_TOKEN", "8171600424:AAEpszvh01lL4Yr5Vma0PxdINX-0yE0aSV8")
 OWNER_ID = int(getenv("OWNER_ID", "5909658683"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Villainmusic01:deathnote0p@cluster0.nah8e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "oldskoolgc")
